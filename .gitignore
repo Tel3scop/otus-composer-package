@@ -1,0 +1,10 @@
+# JetBrains
+*.iml
+.idea
+/out/
+/import/
+
+##### Composer
+composer.phar
+/vendor/
+composer.lock
