@@ -3,7 +3,7 @@
     "type": "library",
     "autoload": {
         "psr-4": {
-            "tel3scop\\OtusComposerPackage\\": "src/"
+            "Tel3scop\\OtusComposerPackage\\": "src/"
         }
     },
     "authors": [
@@ -12,5 +12,7 @@
             "email": "evstifeevea@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "php": ">=7.4.0"
+    }
 }
