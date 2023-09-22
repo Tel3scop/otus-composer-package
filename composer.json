@@ -1,0 +1,16 @@
+{
+    "name": "tel3scop/otus-composer-package",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "tel3scop\\OtusComposerPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Evgeniy Evstifeev",
+            "email": "evstifeevea@gmail.com"
+        }
+    ],
+    "require": {}
+}
