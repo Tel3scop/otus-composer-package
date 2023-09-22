@@ -12,7 +12,7 @@
 ## Установка
 
 ```bash
-$ composer require Tel3scop/otus-composer-package
+$ composer require tel3scop/otus-composer-package
 ```
 
 ## Использование
